@@ -1,0 +1,50 @@
+Spis Treści:
+
+Frontend
+
+1.1 HTML
+1.1.01 Wprowadzenie do HTML
+1.1.02 Struktury tabel i list
+1.1.03 Stylizacja tekstu
+1.1.04 Praca z grafiką i multimediami
+1.1.05 Tworzenie linków i odnośników
+1.1.06 Formularze: tworzenie i obsługa
+1.2 CSS
+1.3 Frameworki
+1.3.01 Korzystanie z Bootstrapa
+Backend
+
+2.1 JavaScript
+2.1.01 Charakterystyka języka JavaScript
+2.1.02 Typy danych
+2.1.03 Zakres zmiennych
+2.1.04 Instrukcje sterujące
+2.1.05 Okna dialogowe
+2.1.06 Pętle
+2.1.07 Funkcje
+2.1.08 Debugowanie kodu JavaScript
+2.1.09 Obsługa zdarzeń
+2.1.10 Obsługa formularzy
+2.1.11 Model DOM - część 1
+2.1.12 Model DOM - część 2
+2.2 PHP
+2.2.01 Instalacja pakietów XAMPP
+2.2.02 Składnia PHP
+2.2.03 Zmienne i operatory
+2.2.04 Wyrażenia warunkowe
+2.2.05 Pętle
+2.2.06 Praca z tablicami
+2.2.07 Funkcje do obsługi tablic
+2.2.08 Obsługa formularzy
+2.2.09 Tworzenie sesji i obsługa ciasteczek
+2.2.10 Połączenie z bazą danych MySQL
+2.3 Testowanie
+2.3.01 Wprowadzenie do testów jednostkowych
+2.3.02 Instalacja i pierwszy test z PHPUnit
+Przygotowanie Strony do Publikacji
+
+3.1 Przygotowanie strony
+3.1.01 Walidacja i optymalizacja
+3.1.02 Zabezpieczanie witryny
+3.1.03 Monitorowanie ruchu na stronie
+3.2 Publikacja strony
